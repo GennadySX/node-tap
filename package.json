@@ -1,6 +1,6 @@
 {
   "name": "@gennadysx/tap",
-  "version": "16.4.2",
+  "version": "16.4.3",
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me) || Gennady Sabirovsky <the@gennadysx.com>",
   "description": "A Test-Anything-Protocol library for JavaScript",
   "homepage": "http://www.node-tap.org/",
