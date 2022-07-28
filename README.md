@@ -5,6 +5,19 @@ Node.js.
 
 ![Build Status](https://github.com/tapjs/node-tap/workflows/ci/badge.svg)
 
+
+***
+### Install
+via yarn:
+```sh
+ yarn add @gennadysx/tap
+```
+or via npm:
+```sh
+ npm install @gennadysx/tap
+```
+
+
 _Just wanna see some code? [Get started!](http://www.node-tap.org/basics/)_
 
 It includes a command line test runner for consuming TAP-generating test
@@ -156,3 +169,10 @@ rite or a hazing ritual.
 There are many opinions left off of this list!  Reasonable people can
 disagree.  But if you find yourself nodding along, [maybe tap is for
 you](https://www.node-tap.org/basics/).
+
+***
+### Happy coding!
+
+***
+This forked repository from [node-tap](https://www.npmjs.com/package/node-tap).
+Modified with ❤️ by [@Gennadysx](https://twitter.com/gennadysx).

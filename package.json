@@ -1,7 +1,7 @@
 {
-  "name": "tap",
-  "version": "16.3.0",
-  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me)",
+  "name": "@gennadysx/tap",
+  "version": "16.4.2",
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me) || Gennady Sabirovsky <the@gennadysx.com>",
   "description": "A Test-Anything-Protocol library for JavaScript",
   "homepage": "http://www.node-tap.org/",
   "bin": {
@@ -81,10 +81,11 @@
     "assert",
     "tap",
     "test",
-    "testing"
+    "testing",
+    "@gennadysx"
   ],
   "license": "ISC",
-  "repository": "https://github.com/tapjs/node-tap.git",
+  "repository": "https://github.com/gennadysx/node-tap.git",
   "scripts": {
     "snap": "node bin/run.js -M coverage-map.js",
     "test": "node bin/run.js -M coverage-map.js",
