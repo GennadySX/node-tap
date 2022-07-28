@@ -3,9 +3,6 @@
 A <abbr title="Test Anything Protocol">TAP</abbr> test framework for
 Node.js.
 
-![Build Status](https://github.com/tapjs/node-tap/workflows/ci/badge.svg)
-
-
 ***
 ### Install
 via yarn:
